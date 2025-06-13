@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **C#, Go, Javascript**
+- 💬 Ask me about **Go, Javascript**
 
 - 📫 How to reach me **sulaimonshittu2004@gmail.com**
 
