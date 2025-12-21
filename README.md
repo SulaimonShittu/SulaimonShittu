@@ -1,1 +1,1 @@
-## Go, Python, Ts, C++ 
+### Go, Python, Typescript, C++ 
