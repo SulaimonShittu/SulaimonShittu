@@ -1,2 +1,2 @@
-##### Primary: Go, Python, Typescript, Backend engineering, Cloud/Infrastructure engineering
+##### Primary: Go, Python, Backend engineering, Distributed Systems, Cloud/Infrastructure engineering,
 ##### Interests: C++, Systems engineering, Deep learning, Security
